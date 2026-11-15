@@ -24,6 +24,9 @@ Soportada para Windows, IOS/macos, Android y Linux.
 
 **Web Account Manager (WAM)**
 
-El gestor de tokens en WIndows. Habilita el SSO para aplicaciones. Trabaja con un plugin de Microsoft Entra Cloud para 
+El gestor de tokens en WIndows. Habilita el SSO para aplicaciones. Trabaja con un plugin de Microsoft Entra Cloud que permite la autenticacion durante el inicio de sesion en Windows.
+
+Para revisar el estado de inscripcion de un dispositivo con Entra ID
+**dsregcmd /status**
 
 
