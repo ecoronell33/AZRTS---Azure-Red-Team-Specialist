@@ -16,12 +16,12 @@ Deshabilitar temporalmente la politica de ejecucion de scripts en Powershell:
 
 ## Temario
 
-PRT (token de actualizacion primaria) 
+**PRT (token de actualizacion primaria)** 
 Es un Token que contiene tokens de acceso y tokens de actualización. A diferencia de otros tokens de OAuth 2.0, se puede utilizar en todas las aplicaciones.
 Inserta en los tokens el ID del dispositivo y clave de sesión. Compatible con las solicitudes de MFA.
 Soportada para Windows, IOS/macos, Android y Linux.
 
-Web Account Manager
+**Web Account Manager (WAM)**
 El gestor de tokens en WIndows. Habilita el SSO para aplicaciones. Trabaja con un plugin de Microsoft Entra Cloud para 
 
 
